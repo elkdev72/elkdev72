@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elkdev72
 - 👀 I’m interested in  Python
-- 🌱 I’m currently learning ...Djan
+- 🌱 I’m currently learning ...Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...elijahkanyia.developer@gmail.com
 - 😄 Pronouns: ...

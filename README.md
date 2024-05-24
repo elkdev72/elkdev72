@@ -47,7 +47,7 @@
 <p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=elkdev72'></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elkdev72&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elkdev72&hide=,&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -74,7 +74,7 @@ Off-screen, I'm building an **off-grid digital hub** powered by ☀️ solar + �
 
 <p align="left">
   <a href="mailto:elkdev72@gmail.com"><img src="https://img.shields.io/badge/Email-elkdev72@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://youtube.com/eldev72"><img src="https://img.shields.io/badge/YouTube-eldev72-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@elkdev72"><img src="https://img.shields.io/badge/YouTube-eldev72-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---

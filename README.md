@@ -53,7 +53,7 @@ Off-screen, I'm building an **off-grid digital hub** powered by ☀️ solar + �
 > 🎙️ *Comparing the best open-source TTS & voice cloning models — so you don't have to.*  
 > 🧪 Live Colab tests · Honest benchmarks · Real-world AI tool breakdowns
 
-**Subscribe:** [youtube.com/@eldev72](https://youtube.com/@eldev72)
+**Subscribe:** [youtube.com/@eldev72](https://www.youtube.com/@elkdev72)
 
 ---
 

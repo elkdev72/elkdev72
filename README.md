@@ -14,7 +14,7 @@
 📍 Based in Kenya 🇰🇪  
 🚀 Building at the intersection of **AI, code, and community**
 
-I run **[eldev72](https://www.youtube.com/@eldev72)** on YouTube — a channel dedicated to exploring AI tools, TTS & voice cloning model comparisons, and hands-on Google Colab experiments. If you're into AI that actually runs, you'll find something useful there.
+I run **[eldev72](https://www.youtube.com/@elkdev72)** on YouTube — a channel dedicated to exploring AI tools, TTS & voice cloning model comparisons, and hands-on Google Colab experiments. If you're into AI that actually runs, you'll find something useful there.
 
 Off-screen, I'm building an **off-grid digital hub** powered by ☀️ solar + 🛰️ Starlink — combining Wi-Fi hotspot services, digital skills training, and local tech solutions in one ecosystem.
 
